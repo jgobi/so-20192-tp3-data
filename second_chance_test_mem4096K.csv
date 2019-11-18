@@ -11,6 +11,7 @@ input,mem_size,page_size,algorithm,read_count,write_count,access_count,page_faul
 "tests/compressor.log",4096,16,2a,877581,122419,1000000,209,0,0.206
 "tests/compressor.log",4096,32,2a,877581,122419,1000000,266,62,0.162
 "tests/compressor.log",4096,64,2a,877581,122419,1000000,375,132,0.155
+"tests/matriz.log",4096,2,2a,932830,67170,1000000,3225,557,0.255
 "tests/matriz.log",4096,4,2a,932830,67170,1000000,2901,809,0.207
 "tests/matriz.log",4096,8,2a,932830,67170,1000000,3064,1011,0.181
 "tests/matriz.log",4096,16,2a,932830,67170,1000000,3871,1346,0.183
