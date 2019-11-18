@@ -5,7 +5,6 @@ input,mem_size,page_size,algorithm,read_count,write_count,access_count,page_faul
 "tests/compilador.log",128,16,random,892816,107184,1000000,200828,35927,0.194
 "tests/compilador.log",128,32,random,892816,107184,1000000,276812,50825,0.202
 "tests/compilador.log",128,64,random,892816,107184,1000000,378316,70489,0.190
-input,mem_size,page_size,algorithm,read_count,write_count,access_count,page_faults,dirty_writes,exec_time
 "tests/compressor.log",128,2,random,877581,122419,1000000,2104,674,0.185
 "tests/compressor.log",128,4,random,877581,122419,1000000,2614,876,0.160
 "tests/compressor.log",128,8,random,877581,122419,1000000,3714,1206,0.142
